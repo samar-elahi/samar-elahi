@@ -3,8 +3,8 @@
 # Hi, I'm Samar Elahi 👋
 ### Senior Full Stack Developer & Distributed Systems Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samar-elahi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xyz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samar-elahi-remote)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samar.elahi00@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samar-elahi.dev)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samar-elahi&color=blue&style=flat-square)
@@ -148,5 +148,5 @@
 
 ## 📫 Contact Me
 - 📧 Email: samar.elahi006@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/samar-eldev-remote
+- 💼 LinkedIn: https://linkedin.com/in/samar-elahi-remote
 - 🌐 Portfolio: https://samar-elahi.dev
