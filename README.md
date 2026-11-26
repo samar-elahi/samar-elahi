@@ -5,7 +5,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samar-elahi-remote)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samar.elahi00@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://samar-elahi.dev)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samar-elahi&color=blue&style=flat-square)
 
@@ -13,17 +12,17 @@
 
 ---
 
-## 🧠 About Me
-- 🏢 **Senior Lead Developer** at Stealth Fintech (2021–Present)
-- 🎓 **MIT** — B.S. Computer Science & Engineering | GPA: 5.0
-- 🏆 **Jane Street** — Software Engineering Intern (Quant Systems)
-- ⚡ **6+ Years** building distributed systems, DeFi protocols & dev tools
-- 🌍 Currently building high-frequency trading infrastructure in **Rust**
-- 🔭 Open to: Founding Engineer · Staff Engineer · Architect roles
+## About Me
+- **Senior Lead Developer** at Stealth Fintech (2021–Present)
+- **MIT** — B.S. Computer Science & Engineering | GPA: 5.0
+- **Jane Street** — Software Engineering Intern (Quant Systems)
+- **6+ Years** building distributed systems, DeFi protocols & dev tools
+- Currently building high-frequency trading infrastructure in **Rust**
+- Open to: Founding Engineer · Staff Engineer · Architect roles
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -61,24 +60,24 @@
 
 ---
 
-## 🏆 Hackathon Wins
+## Hackathon Wins
 
-| 🥇 Project | Event | Category | Demo |
+| Project | Event | Category | Demo |
 |---|---|---|---|
-| MediChain | ETHGlobal | 🥇 1st Place | [Live](https://devpost.com/software/medichain-tq9k3l) |
-| HealthLens | HackMIT | 🥇 Best AI | [Live](https://devpost.com/software/healthlens) |
-| SolarFinance | TechCrunch Disrupt | 🥇 1st Place | [Live](https://devpost.com/software/solar-finance) |
-| VoiceLink | PennApps | 🥇 Grand Prize | [Live](https://devpost.com/software/voicelink-7m1a3y) |
-| SignRead | TreeHacks | 🥇 Best Overall | [Live](https://devpost.com/software/signread) |
-| AR-Nav | LA Hacks | 🥇 Winner | [Live](https://devpost.com/software/ar-navigation-system) |
-| CrisisNode | HackNYU | 🥇 1st Place | [Live](https://devpost.com/software/crisis-response-nodes) |
-| AgroSmart | CalHacks | 🥇 Best Web3 | [Live](https://devpost.com/software/agro-smart-contracts) |
-| SafeDrive AI | HackZurich | 🥇 Winner | [Live](https://devpost.com/software/safe-drive-ai) |
-| FireWatch | HackDavis | 🥇 Winner | [Live](https://devpost.com/software/firewatch-monitoring) |
+| MediChain | ETHGlobal | 1st Place | [Live](https://devpost.com/software/medichain-tq9k3l) |
+| HealthLens | HackMIT | Best AI | [Live](https://devpost.com/software/healthlens) |
+| SolarFinance | TechCrunch Disrupt | 1st Place | [Live](https://devpost.com/software/solar-finance) |
+| VoiceLink | PennApps | Grand Prize | [Live](https://devpost.com/software/voicelink-7m1a3y) |
+| SignRead | TreeHacks | Best Overall | [Live](https://devpost.com/software/signread) |
+| AR-Nav | LA Hacks | Winner | [Live](https://devpost.com/software/ar-navigation-system) |
+| CrisisNode | HackNYU | 1st Place | [Live](https://devpost.com/software/crisis-response-nodes) |
+| AgroSmart | CalHacks | Best Web3 | [Live](https://devpost.com/software/agro-smart-contracts) |
+| SafeDrive AI | HackZurich | Winner | [Live](https://devpost.com/software/safe-drive-ai) |
+| FireWatch | HackDavis | Winner | [Live](https://devpost.com/software/firewatch-monitoring) |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Live | Stack |
 |---|---|---|---|
@@ -90,10 +89,10 @@
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <details>
-<summary>🏅 Click to see all 20 Certifications</summary>
+<summary> Click to see all 20 Certifications</summary>
 
 | # | Certification | Issuer |
 |---|---|---|
@@ -122,7 +121,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -136,7 +135,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -146,7 +145,6 @@
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: samar.elahi006@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/samar-elahi-remote
-- 🌐 Portfolio: https://samar-elahi.dev
+## Contact Me
+- Email: samar.elahi006@gmail.com
+- LinkedIn: https://linkedin.com/in/samar-elahi-remote
